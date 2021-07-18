@@ -767,4 +767,4 @@ The list of addresses below refer to the eligible "holders bonus" during our cra
 0xad0e4fbfed440575c40b4131b1a8f53a371413b8
 0xd36f51f6cf41324877f06526be157ca62c664049
 0x5cab07ebc3b22fc7c268007876711af54ff77f25
-
+0xDb10d21f28a34FD04E4425eac777483798f7e217
